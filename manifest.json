@@ -1,0 +1,12 @@
+{
+  "name": "نظام أبوليث ERP",
+  "short_name": "أبوليث ERP",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#081b33",
+  "orientation": "portrait-primary",
+  "dir": "rtl",
+  "lang": "ar"
+}
